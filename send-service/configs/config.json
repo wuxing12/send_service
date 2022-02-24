@@ -1,0 +1,9 @@
+{
+  "sender": "1621550047@qq.com",
+  "password": "qezfbjtldmkjbcib",
+  "host": "smtp.qq.com",
+  "port": 25,
+  "recipients": [
+    "1621550047@qq.com"
+  ]
+}
